@@ -1,0 +1,20 @@
+[
+    {
+        "project": "Horiseon Refactor",
+        "description": "Refactored the Horiseon website code to make it more accessible and easier to read.",
+        "image": "./img/horiseonRefactor.png",
+        "url": "https://gavin-pomphrey.github.io/Challenge-1/"
+    },
+    {
+        "project": "ChatterHub",
+        "description": "A chatroom application that allows users to create and join chatrooms.",
+        "image": "./img/chatterHub.png",
+        "url": "https://limitless-stream-42645.herokuapp.com/"
+    },
+    {
+        "project": "Marvel Search Engine",
+        "description": "A search engine that allows users to search for Marvel characters and comics.",
+        "image": "./img/marvelsearchEngine.png",
+        "url": "https://evolangit.github.io/Marvel-Search-Engine/"
+    }
+]
